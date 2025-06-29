@@ -19,7 +19,7 @@
 
 ## 📌 Mô tả dự án
 
-Hệ thống ôn tập trắc nghiệm là một nền tảng web cho phép:
+Hệ thống ôn tập trắc nghiệm là ứng dụng cho phép:
 
 - 👤 Người dùng đăng ký, đăng nhập để làm bài thi.
 - 📝 Quản trị viên tạo đề thi, thêm/sửa câu hỏi.
@@ -33,7 +33,7 @@ Hệ thống ôn tập trắc nghiệm là một nền tảng web cho phép:
 
 | Thành phần        | Công nghệ                |
 |-------------------|--------------------------|
-| 🧠 Ngôn ngữ        | C#, ASP.NET MVC / Razor |
+| 🧠 Ngôn ngữ        | C#, .NET Framework, Winform |
 | 🗄️ Cơ sở dữ liệu   | SQL Server              |
 | 🎨 Giao diện       | HTML, CSS, Bootstrap    |
 | ⚙️ Công cụ         | Visual Studio, SSMS     |
