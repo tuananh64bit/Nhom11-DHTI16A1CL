@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam.GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam_.NET_framework.LoginForm.resources
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam_.NET_framework.MainForm.resources
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam.GUI.Properties.Resources.resources
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam.GUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam.GUI.LoginForm.resources
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.GUI\obj\Debug\UnetiExam.GUI.MainForm.resources

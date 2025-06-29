@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\UnetiExamSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\dashboard_admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE8F17-4810-479E-A706-BD18FEAA2711}|..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\UnetiExam.GUI.csproj|c:\\users\\admin\\source\\repos\\unetiexam_.net framework\\unetiexam_.net framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.Designer.cs",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:54:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.resx",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.resx",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-29T11:54:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard_Admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.Designer.cs",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.Designer.cs",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:54:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:53:41.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard_Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs [Design]",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Dashboard_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:53:38.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIA3wDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:53:15.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:51:56.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Program.cs",
+              "RelativeToolTip": "..\\UnetiExam_.NET framework\\UnetiExam_.NET framework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:49:48.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
