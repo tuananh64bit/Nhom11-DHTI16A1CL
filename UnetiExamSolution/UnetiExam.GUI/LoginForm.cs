@@ -16,6 +16,7 @@ namespace UnetiExam.GUI
         public LoginForm()
         {
             InitializeComponent();
+
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -46,12 +47,13 @@ namespace UnetiExam.GUI
                 MessageBox.Show("Please enter password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-            if (txtPassword.Text == "password")
+            if (txtPassword.Text == "123")
             {
                 
                 this.Hide();
                 MainForm mainForm = new MainForm();
                 mainForm.Show();
+                mainForm.SetUsername(txtUsername.Text); // Assuming MainForm has a method to set the username
             }
             else
             {
@@ -60,6 +62,32 @@ namespace UnetiExam.GUI
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (showPassCheckBox.Checked)
+            {
+                txtPassword.PasswordChar = '\0';
+            } else
+            {
+                txtPassword.PasswordChar = '●';
+            }
+        }
+
+        private void guna2CustomGradientPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
         {
 
         }
