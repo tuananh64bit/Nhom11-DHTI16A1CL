@@ -1,6 +1,0 @@
-C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DTO\bin\Debug\UnetiExam.DTO.dll
-C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DTO\bin\Debug\UnetiExam.DTO.pdb
-C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DTO\obj\Debug\UnetiExam.DTO.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DTO\obj\Debug\UnetiExam.DTO.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DTO\obj\Debug\UnetiExam.DTO.dll
-C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DTO\obj\Debug\UnetiExam.DTO.pdb
