@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\bin\Debug\UnetiExam.DAL.dll
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\bin\Debug\UnetiExam.DAL.pdb
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\bin\Debug\UnetiExam.DTO.dll
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\bin\Debug\UnetiExam.DTO.pdb
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\obj\Debug\UnetiExam.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\obj\Debug\UnetiExam.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\obj\Debug\UnetiExa.4BEB7041.Up2Date
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\obj\Debug\UnetiExam.DAL.dll
+C:\Users\Admin\source\repos\UnetiExamSolution\UnetiExam.DAL\obj\Debug\UnetiExam.DAL.pdb

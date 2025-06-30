@@ -16,6 +16,10 @@ namespace UnetiExam.GUI
         public LoginForm()
         {
             InitializeComponent();
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0575c294f1aa0a26d253fa4f52e75dcdc6d8b104
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -46,12 +50,20 @@ namespace UnetiExam.GUI
                 MessageBox.Show("Please enter password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
+<<<<<<< HEAD
             if (txtPassword.Text == "password")
+=======
+            if (txtPassword.Text == "123")
+>>>>>>> 0575c294f1aa0a26d253fa4f52e75dcdc6d8b104
             {
                 
                 this.Hide();
                 MainForm mainForm = new MainForm();
                 mainForm.Show();
+<<<<<<< HEAD
+=======
+                mainForm.SetUsername(txtUsername.Text); // Assuming MainForm has a method to set the username
+>>>>>>> 0575c294f1aa0a26d253fa4f52e75dcdc6d8b104
             }
             else
             {
@@ -63,5 +75,34 @@ namespace UnetiExam.GUI
         {
 
         }
+<<<<<<< HEAD
+=======
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (showPassCheckBox.Checked)
+            {
+                txtPassword.PasswordChar = '\0';
+            } else
+            {
+                txtPassword.PasswordChar = '●';
+            }
+        }
+
+        private void guna2CustomGradientPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> 0575c294f1aa0a26d253fa4f52e75dcdc6d8b104
     }
 }
